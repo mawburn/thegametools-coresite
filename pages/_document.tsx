@@ -2,7 +2,7 @@ import Document, { Head, Html, Main, NextScript } from 'next/document'
 // eslint-disable-next-line
 import Script from 'next/script'
 
-import { Footer, Github, NavBar, SponsoredBy } from '@thegametools/components'
+import { Footer, Github, NavBar, SponsoredBy } from '@thegametools/utils'
 
 export const title = 'TheGame.tools' as const
 const descr = 'Tools for RPGS & Boardgames' as const
