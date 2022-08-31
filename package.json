@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.5",
-    "@thegametools/utils": "^0.1.7",
+    "@thegametools/utils": "^0.1.8",
     "clsx": "^1.2.1",
     "nanoid": "^4.0.0",
     "nanoid-dictionary": "^4.3.0",
